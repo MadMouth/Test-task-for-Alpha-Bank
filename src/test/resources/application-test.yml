@@ -1,0 +1,9 @@
+spring:
+  main:
+    allow-circular-references: true
+giphy:
+  url: http://localhost:9561
+  app_key: app_key
+open-exchange-rates:
+  url: http://localhost:9561
+  app_id: app_id
