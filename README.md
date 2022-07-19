@@ -1,6 +1,6 @@
-# Your-Dollar-Your-GIF API
+# Your-Dollar-Your-GIF
 
-An API service that accesses the exchange rate service, and displays a gif
+API service that accesses the exchange rate service, and displays a gif.
 
 # Getting started
 
