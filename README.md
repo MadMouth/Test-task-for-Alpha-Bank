@@ -1,4 +1,4 @@
-# Test task for Alpha-Bank
+# Your-Dollar-Your-GIF API
 
 # Task
 Создать сервис, который обращается к сервису курсов валют, и отображает gif:
@@ -21,7 +21,7 @@ Nice to Have
 # Getting started
 
 You'll need Java 17 installed. Download and unzip the source repository, or clone it using Git\
-`git clone https://github.com/MadMouth/Test-task-for-company-A-.git`
+`git clone https://github.com/MadMouth/Your-Dollar-Your-GIF.git`
 
 Before launching, change in `application.properties` APP_ID and APP_KEY on your own values. Get
 the [APP_ID](https://docs.openexchangerates.org/)
