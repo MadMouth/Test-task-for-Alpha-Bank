@@ -25,7 +25,7 @@ _http://localhost:8080/api/v1/have-i-become-richer-today?symbol=AUD_
 # Try it out with Docker
 
 You'll need Docker installed. \
-`./gradlew build`  - [change to docker multistage]\
+`./gradlew build`\
 `docker build -t yourdollaryourgif .` \
 `docker run --name yourdollaryourgif -p 8080:8080 -e APP_ID=your_id -e APP_KEY=your_key yourdollaryourgif`
 
